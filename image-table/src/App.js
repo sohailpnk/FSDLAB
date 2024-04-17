@@ -61,7 +61,7 @@ const App = () => {
         <input type="file" onChange={handleFileUpload} multiple />
         <ImageTable selectedImages={selectedImages} />
         </div>
-        <div className='watermark'>P.N.S. Ruthwik</div>
+        <div className='watermark'>Sohail</div>
     </div>
   );
 };
